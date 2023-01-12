@@ -1,7 +1,7 @@
 {
-  "name": "Aquabot-MD",
+  "name": "Gaiya-xx",
   "version": "1.0.0",
-  "description": "aquabot happy for whatsapp.",
+  "description": "gavee happy for whatsapp.",
   "main": "/aquabot/bot.js",
   "type": "commonjs",
   "scripts": {
@@ -14,8 +14,8 @@
   "engines" : { 
     "node" : ">=14.19.3"
   },
-  "author": "sanuwa official",
-  "developer": "sanuwa",
+  "author": "Gaveesha Randith",
+  "developer": "Gaiya",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
